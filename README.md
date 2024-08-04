@@ -9,7 +9,7 @@
 - Detailed output of open ports
 
 ## Requirements
-[![My Skills](https://skillicons.dev/icons?i=python,asyncio,socket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 - Python 3.7+
 - `asyncio`
 - `socket`

@@ -1,6 +1,6 @@
-# dzmap
+# DZMAP
 
-**dzmap** is a Python tool for scanning ports on a given IP address. It allows you to check which ports are open within a specified range.
+**DZMAP** is a Python tool for scanning ports on a given IP address. It allows you to check which ports are open within a specified range.
 
 ## Features
 
@@ -19,6 +19,6 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/dzmap.git
+git clone https://github.com/EmilTsaturyan/dzmap.git
 cd dzmap
 # No additional dependencies for this basic script

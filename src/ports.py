@@ -1,0 +1,20 @@
+PORTS_AND_SERVICES = {
+    20: {'protocol': 'TCP', 'service': 'FTP Data Transfer'},
+    21: {'protocol': 'TCP', 'service': 'FTP Control'},
+    22: {'protocol': 'TCP', 'service': 'SSH'},
+    23: {'protocol': 'TCP', 'service': 'Telnet'},
+    25: {'protocol': 'TCP', 'service': 'SMTP'},
+    53: {'protocol': 'UDP', 'service': 'DNS'},
+    67: {'protocol': 'UDP', 'service': 'DHCP Server'},
+    68: {'protocol': 'UDP', 'service': 'DHCP Client'},
+    80: {'protocol': 'TCP', 'service': 'HTTP'},
+    110: {'protocol': 'TCP', 'service': 'POP3'},
+    143: {'protocol': 'TCP', 'service': 'IMAP'},
+    443: {'protocol': 'TCP', 'service': 'HTTPS'},
+    3306: {'protocol': 'TCP', 'service': 'MySQL'},
+    3389: {'protocol': 'TCP', 'service': 'RDP'},
+    5432: {'protocol': 'TCP', 'service': 'PostgreSQL'},
+    6379: {'protocol': 'TCP', 'service': 'Redis'},
+    8080: {'protocol': 'TCP', 'service': 'HTTP Alternative'},
+    # Add more ports as needed
+}
